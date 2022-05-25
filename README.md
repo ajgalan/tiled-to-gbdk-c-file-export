@@ -31,8 +31,6 @@ The export plugin generates a .c source file and associated .h header file.
 extern const unsigned char example[];
 
 #endif
-
-
 ```
 
 **example.c**
@@ -46,9 +44,6 @@ const unsigned char example[] = {
     0x14, 0x15, 0x16, 0x17, 0x18, 0x19, 0x1a, 0x1b, 0x1c, 0x1d,
     etc.
 };
-
-
-
 ```
 
 ## License
