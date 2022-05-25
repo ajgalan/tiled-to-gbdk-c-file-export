@@ -3,7 +3,7 @@ This is a extension/export plugin for the [Tiled map editor](https://www.mapedit
 
 * GBDK C file (*.c, *.h)
 
-This save option generates a tile array that can be used with GBDK's background and window functions such as set_bkg_tiles or set_win_tiles.
+This save option generates a tile array from the first Tile Layer found that can be used with GBDK's background and window functions such as set_bkg_tiles or set_win_tiles.
 
 <sub>* Blank tiles are defaulted to 0x00</sub>
 
