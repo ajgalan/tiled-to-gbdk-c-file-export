@@ -12,7 +12,7 @@
  * IDs casted into an unsigned 8 bit integer. Blank tiles are defaulted to 0x00.
  *
  * Copyright (c) 2020 Jay van Hutten
- * Copyright (c) 2016 Adrián Jiménez Galán
+ * Copyright (c) 2022 Adrián Jiménez Galán
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
